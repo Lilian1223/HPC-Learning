@@ -1,4 +1,5 @@
 name,score
 Alice,90
-Bob,85
-Charlie,95
+Bob,
+Charlie,abc
+David,85
