@@ -1,5 +1,7 @@
 matrix
 build/
 *.exe
+*.out
+*.o
 
 week02_csv_statistics/csv_stats
