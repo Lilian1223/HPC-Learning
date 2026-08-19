@@ -5,3 +5,7 @@ build/
 *.o
 
 week02_csv_statistics/csv_stats
+
+histogram_csv
+histogram.csv
+pgm_reader
